@@ -1,0 +1,247 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Letter to an eminent member of Parliament about the present rate of guineas and the influence they will have on our expected new money.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 25 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A48211</idno>
+            <idno type="STC">Wing L1698</idno>
+            <idno type="STC">ESTC R36364</idno>
+            <idno type="EEBO-CITATION">15668123</idno>
+            <idno type="OCLC">ocm 15668123</idno>
+            <idno type="VID">104337</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A48211)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 104337)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1152:36)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Letter to an eminent member of Parliament about the present rate of guineas and the influence they will have on our expected new money.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1695?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: print show-through.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Money --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-02</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-02</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:104337:1" rendition="simple:additions"/>
+            <head>A LETTER to an eminent Member of <hi>PARLIAMENT,</hi> about the preſent Rate of <hi>Guineas,</hi> and the Influence they will have on our expected New Money.</head>
+            <div type="body_of_letter">
+               <opener>
+                  <salute>SIR;</salute>
+               </opener>
+               <p>THO I muſt confeſs we are under very great Difficulties in reſpect of our Coin, yet they are ſtill increas'd, and I fear will be made inſuperable by the <hi>Ignorance</hi> of ſome, and <hi>Knavery</hi> of others; and the <hi>Fool</hi> and the <hi>Knave</hi> having gotten ſuch an Aſcendant over us, unleſs this preſent <hi>Parliament</hi> be inſpired with Wiſdom and Vertue enough to ſee and correct the Vice and Fraud which is openly practiſed, it's impoſſible but that the Na<g ref="char:EOLhyphen"/>tion muſt ſink into Deſtruction. Tho I have the greateſt Veneration for an <hi>Engliſh Parliament,</hi> yet (ſince you have allow'd me the liberty of writing my Mind freely) I muſt ſay, It has been a Fatality almoſt always upon them, that they never took care to <hi>prevent</hi> Misfortunes: How good ſoever they have been afterwards at applying a Cure, yet their Skill has ſeldom been eminent in foreſeeing a Diſeaſe.</p>
+               <p>Had the <hi>Parliament</hi> ſix Years ago, when the Miſchieſs of carrying away our Treaſure were laid before them, but paſs'd an effectual Bill of Prevention then, and had taken care of our Trade, we had been ſome Millions richer than now we are, and the War had not been afflictive to us. Had you the laſt <hi>Parliament</hi> (when ſo many Complaints were laid before the Houſe) taken care of the Coin, and made a LAW (inſtead of a —) to prevent effectually the ebbing away of our Treaſure, Silver had never come to <hi>6 <abbr>s.</abbr> 2 <abbr>d.</abbr> per Ounce,</hi> nor Guineas riſen to 30 <abbr>
+                     <hi>s.</hi>
+                  </abbr> apiece. But ſince'tis in vain to look back to thoſe days that cannot be recall'd, it re<g ref="char:EOLhyphen"/>mains that you <hi>Now</hi> provide againſt the time to come. In order to which,</p>
+               <p>During this preſent Seſſion, there has a Law been enacted for calling in all the Clipp'd Mo<g ref="char:EOLhyphen"/>ney, and recoining it, (at a National Charge) according to the antient Weight and Standard. It's a good <hi>Omen</hi> of future Succeſs, that this ſo juſt and wiſe a Proviſion is paſs'd into a Law; and that you were not impoſed upon by the ſpecious (but ſilly) Projects of <hi>ſome,</hi> who were for lowering our Standard, or leſſening our Weight: And I hope the Almighty will bleſs our Na<g ref="char:EOLhyphen"/>tion in receiving other good Laws from this preſent Parliament that will effectually cure the Wounds of the Land in reſpect of our Money; which, as it's the <hi>Life of Trade,</hi> and the <hi>Sinews of War,</hi> ſo it ought to be regarded with the moſt provident Care.</p>
+               <p>But that we may not be defeated of our Hopes of having better Money than what at preſent paſſes amongſt us, it's abſolutely neceſſary that theſe <hi>two things</hi> be done, otherwiſe your Laws will be made in vain, and our Mints will labour to no more purpoſe (in reſpect of our Silver) than they have done for this 30 Years paſt, in which there have been coin'd above SIX MILLI<g ref="char:EOLhyphen"/>ONS of MILL'D MONEY, (which is more Silver Money, by a modeſt Computation, than is left in the Nation, by Tale as well as Weight) and yet there's hardly a Piece of it now paſſing amongſt us; yea, which is worſe, the Mint will be ſet on work to ruine the Nation, by put<g ref="char:EOLhyphen"/>ting all our Money into a fit Condition for Exportation, which is the Miſery which at preſent we groan under.</p>
+               <p>The two things are; <hi>1ſt.</hi> To ſtop the Coinage of Guineas, or lower their Value to a Parity with Silver.</p>
+               <p n="2">
+                  <hi>2dly.</hi> To take care of Trade, and to provide that the Ballance of it may be in favour of our ſelves.</p>
+               <p>The <hi>BALLANCE of Trade</hi> is a Phraſe that is in every Bodies Mouth, and the <hi>thing</hi> it ſelf pretended to be underſtood by very many; and therefore I will not doubt but that cur <hi>Parlia<g ref="char:EOLhyphen"/>ment,</hi> who are the Eyes of the Nation, will ſee how much this concerns us all, and will ac<g ref="char:EOLhyphen"/>cordingly provide prudently for it.</p>
+               <p>But let them do what they will in that Matter, (conſidering the Condition into which we are brought) unleſs there be ſome care taken to ſuppreſs the Price of <hi>Guineas,</hi> I can poſitively fore<g ref="char:EOLhyphen"/>tel you, (without the Spirit of Prophecy) that in a very little time, <hi>THERE WILL BE NO SILVER MONEY LEFT IN THE NATION.</hi>
+               </p>
+               <p>And that I may prove this Aſſertion, and make you ſenſible that 'tis a Conſequence that cannot fail of our preſent Premiſes, I ſhall requeſt you to conſider theſe things:</p>
+               <p>Since we (and almoſt all the World beſides) do make our Money of two ſorts of Metals, <hi>viz.</hi> of Gold and Silver, therefore there muſt be obſerv'd by us a juſt Proportion of the Value that the one Metal bears to the other, in reſpect of Weight or Quantity, (ſuppoſing them to be alike
+<pb n="2" facs="tcp:104337:2"/>fine) according to the Proportion obſerv'd by all other Nations; otherwiſe, if we neglect this, we muſt loſe all the Money made either of the one or the other Metal. I ſhall therefore ſet down briefly, the modern Proportions between Gold and Silver both in our own and our Neighbour-Nations (according to their common Standard): In doing which I hope you'l excuſe me if I do not exactly ſet down <hi>Pennyweights</hi> and <hi>Grains,</hi> or Pence and Shillings, but leave that as a Curio<g ref="char:EOLhyphen"/>ſity too nice and too long for a Letter. The <hi>Par</hi> or Proportion between Gold and Silver is ve<g ref="char:EOLhyphen"/>ry much alter'd within this laſt two hundred Years, almoſt in all Parts of the World, but moſt eſpecially in <hi>Europe</hi> and the <hi>Weſt-Indies,</hi> which has been occaſioned by the vaſt Quantities of Silver more than Gold brought into thoſe Parts from <hi>Mexico</hi> and <hi>Peru,</hi> &amp;c. For whereas the old Proportion in the <hi>Roman Republick</hi> was ten to one; and in the time of our King <hi>Edward</hi> III. here in <hi>England,</hi> 'twas eleven to one; now the Proportion is much chang'd: For the Spaniards bringing yearly from their <hi>American</hi> Conqueſts (ſince the Diſcovery of that vaſt Continent, and the Riches of it) great Quantities of Silver, far (in proportion) more than Gold, they have raiſed their <hi>Par</hi> between Gold and Silver almoſt above all other Nations; ſo that when we did formerly manage our Spaniſh Trade to make Returns in Money, our Merchants always choſe to ſend home Silver rather than Gold. But yet this Proportion in <hi>Spain</hi> has alſo influenced the greateſt Part if not all <hi>Europe,</hi> ſo that the Proportion is now near about the following Ac<g ref="char:EOLhyphen"/>count.</p>
+               <p>In <hi>Spain</hi> 'tis near 16 Ounces of Silver to one Ounce of Gold.</p>
+               <p>In <hi>France</hi> 'tis now almoſt, if not exactly the ſame.</p>
+               <p>In <hi>England</hi> (according to the late Indentures of the Mint, by which the Pieces call'd <hi>Guineas</hi> were coin'd for 20 <abbr>
+                     <hi>s.</hi>
+                  </abbr>) the Proportion is above 14 Ounces of Silver to one Ounce of Gold: But ſince thoſe Pieces did rarely ever paſs at leſs than one and twenty Shillings and ſix-Pence each, (which for many Years was their current Price) allowing them coin'd therefore at that Value, the Proportion then between Gold and Silver in <hi>England</hi> is about 15 Ounces and an half of Silver to one Ounce of Gold, according to the Standard of one Metal and the other.</p>
+               <p>In <hi>Holland</hi> it has been much-what the ſame as in <hi>England,</hi> tho oftentimes leſs. So that the common Proportion throughout <hi>Europe</hi> between Gold and Silver is almoſt 16 to 1; or to avoid Fractions, we will allow it at 16 Ounces of Silver for one Ounce of Gold.</p>
+               <p>Now the Caſe being thus; If we coin our Silver at the old Weight and Fineneſs, (which cer<g ref="char:EOLhyphen"/>tainly we ought to do both in point of Proſit as well as Honour, as his Majeſty and the Parlia<g ref="char:EOLhyphen"/>ment have very well determin'd, by a juſt Law) and do not take care in the mean time to ſup<g ref="char:EOLhyphen"/>preſs the Price of Gold, (which the Badneſs of our Money, and the Arts of SOME MEN have raiſed to a moſt extravagant rate) the Conſequence will be the certain Exportation of all our Silver.</p>
+               <p>For if a <hi>Refiner,</hi> or <hi>Merchant,</hi> or <hi>Exchanger,</hi> who deals in Silver, can now (at the Expence of an ignorant Oath taken by a Servant, or with hired Perjury, <hi>&amp;c.)</hi> export what Quantities of Silver he pleaſes, (Cuſtom-free) and can with 16000 Ounces of Silver, which coſt him now near 6 <abbr>
+                     <hi>s.</hi>
+                  </abbr> 2 <abbr>
+                     <hi>d.</hi>
+                  </abbr> 
+                  <hi>per</hi> Ounce, (an extravagant Price 'tis true, but yet near the Price now current) which will be, in tale of Money, about 4930 <abbr>
+                     <hi>l.</hi>
+                  </abbr> If with this ſent abroad he can buy or change for 1000 Ounces of Gold, which being brought home and coin'd at the <hi>Tower</hi> of <hi>London gratis,</hi> will make above 3708 Guineas: And if thoſe Guineas go off at 30 <abbr>
+                     <hi>s.</hi>
+                  </abbr> apiece, this will be about 5562 <abbr>
+                     <hi>l.</hi>
+                  </abbr> in Tale. And then it's clear, that by the Exportation of Silver, and Importation of Gold, he gains by laying out 4930 <abbr>
+                     <hi>l.</hi>
+                  </abbr> 
+                  <hi>ſix hundred thirty two Pounds,</hi> and all this perhaps in a Month or ſix Weeks time, without any other Trouble than only the telling, receiving, and paying of Mo<g ref="char:EOLhyphen"/>ney; beſides the great Advantage of culling, <hi>i. e.</hi> putting away light Pieces, and melting again the heavy, a Practice too well known, and too much us'd by the <hi>Exchangers</hi> of our Nation, and for which I wiſh our late Act had provided a Remedy, but it's too late to mention that now. Now this will be a Gain ſufficient to encourage (and this has encouraged and carried on) the baneful Trade of traſſiquing, and buying and ſelling our Money, and carrying out too much Sil<g ref="char:EOLhyphen"/>ver, and bringing in too much (tho in reality in the end too little) Gold. But if that be a Miſ<g ref="char:EOLhyphen"/>chief now, what will it be hereafter?</p>
+               <p>When we have new-coin'd our Silver Money at the antient Weight and Fineneſs, and that Silver coin'd is but 3 <abbr>
+                     <hi>l.</hi>
+                  </abbr> 2 <abbr>
+                     <hi>s.</hi>
+                  </abbr> in Tale (which is the Mint-Rule) to a Pound in Weight, then the Exporter's Market will riſe far higher, for then he can ſend abroad 16000 <abbr>
+                     <hi>l.</hi>
+                  </abbr> Weight in Silver, which will be in this New Money but 49600 <abbr>
+                     <hi>l.</hi>
+                  </abbr> in Tale, and this will return him 1000 <abbr>
+                     <hi>l.</hi>
+                  </abbr> Weight in Gold, which coin'd into Guineas will be 44500 Guineas, beſides the Proſits of culling, which if put off at 30 <abbr>
+                     <hi>s.</hi>
+                  </abbr> each, will make <hi>ſixty ſix thouſand ſeven hundred and fifty Pounds in Tale:</hi> And here the Advantage will be on the exporting of 49600 <abbr>
+                     <hi>l.</hi>
+                  </abbr> and making Returns in Gold <hi>ſeventeen thouſand one hundred and fifty Pounds</hi> clear; and this too in as little time as the former. And this will be ſuch a Temptation as will ſoon drain us of all our New Money; and it's ſo <hi>true</hi> and <hi>cer<g ref="char:EOLhyphen"/>tain,</hi> that I am ſure you will be (with the leaſt Conſideration of what has been laid down) con<g ref="char:EOLhyphen"/>vinc'd of it: Therefore whatſoever we may think of it, if there be not a Remedy provided againſt this Miſchief, we may coin what New Money we pleaſe, (or at leaſt all we can) but not a
+<pb n="3" facs="tcp:104337:2"/>Shilling will ſtay with us, while it can run to the other ſide of the Water, and fetch Gold at ſuch a prodigious Advantage.</p>
+               <p>
+                  <hi>If therefore the Price of Gold be not brought down, we cannot keep our Silver.</hi>
+               </p>
+               <p>But to this ſo evident a Demonſtration ſome Men think they can object;</p>
+               <p n="1">1. That 'tis provided by a late Act of Parliament, (<hi>Anno 6 &amp; 7 Will. R.</hi> entituled, <hi>An Act to prevent the Counterfeiting and Clipping the Coin of the Kingdom</hi>) that no Silver ſhall be exported out of this Kingdom, but ſuch as is firſt ſtamp'd or mark'd at Goldſmiths-Hall, and atteſted on the Oath of <hi>one Witneſs, TO BE (before it was melted) NEITHER C<g ref="char:V">Ʋ</g>RRANT COIN OF THE KINGDOM, CLIPPINGS THEREOF, NOR PLATE WRO<g ref="char:V">Ʋ</g>GHT WITHIN THIS REALM.</hi> And therefore perhaps <hi>ſome</hi> may ſay, By reaſon of this Act our Money cannot be exported, either <hi>melted,</hi> or <hi>in ſpecie.</hi>
+               </p>
+               <p>To this I would reply more ſharply than the Matter will bear, were it not too bold to call too briskly in queſtion any thing that has paſs'd the Teſt of your Houſe; but however I know you will pardon me, and ſo likewiſe will, I hope, the reſt of the Members, if I ſhew the Deficiency of that Act; and I do it the rather, becauſe before that Bill ever paſt your Houſe, you were acquainted in a printed Paper given to the Members, (intituled, <hi>PLAIN TR<g ref="char:V">Ʋ</g>TH,</hi> &amp;c.) that the Bill would never prevent the Miſchief you deſign'd to cure.</p>
+               <p>In that Paper were theſe words: <q rend="margQuotes">"That an Oath of the <hi>Lawfulneſs of Bullion to be tranſported,</hi> will not ſtop the Miſchief, is apparent; ſince if the Exporter himſelf melt either Clippings, Money, <hi>&amp;c.</hi> (which is neither difficult, tedious or laborious) privately firſt into <hi>ſmall Ingots, &amp;c.</hi> and his <hi>Servant</hi> afterwards melt the ſame numerical <hi>Ingots,</hi> &amp;c. into larger, for <hi>Exporta<g ref="char:EOLhyphen"/>tion,</hi> the <hi>Servant</hi> will become capable of ſwearing that <hi>what</hi> He melted, was neither Clippings, Plate, nor the Coin of the Kingdom.</q> Alſo,</p>
+               <p>
+                  <q rend="margQuotes">"<hi>Thoſe</hi> who have evaded the Law, in melting down our <hi>Mill'd Money,</hi> and clipping the <hi>Broad; Thoſe</hi> who raiſe to themſelves Eſtates, by ſecret gainful Ways, <hi>&amp;c.</hi> will never want Men to ſwear (if they boggle themſelves) to evade a new Law, which leaves them the Liber<g ref="char:EOLhyphen"/>ty of exporting what they pleaſe, at the Expence of an Oath.</q>
+               </p>
+               <p>And that this Act has proved ineffectual, may eaſily be ſeen, if your Houſe will be pleas'd to command an Inſpection into the Books at Goldſmiths-Hall and the Cuſtom-Houſe; there you'l find what prodigious Quantities of Silver, within this <hi>nine Months,</hi> have been ſworn off for Ex<g ref="char:EOLhyphen"/>portation. I'll make no Remark on the Oath's being a <hi>Negative,</hi> (tho that will admit of Con<g ref="char:EOLhyphen"/>ſideration, and ſome Perſons perhaps have paus'd on't) but only ask this <hi>Queſtion,</hi> If thoſe MANY TUNS of Silver which have been ſtamp'd at Goldſmiths Hall this laſt Year, as a Warrant of its Lawfulneſs for Exportation, was not <hi>Clippings, Coin, nor Silver once wrought in this Kingdom,</hi> what was it? Foreign Bullion, in any conſiderable Quantity, I am ſure has not been imported; and if thoſe Men have found Mines here at home, I am afraid they have been digg'd with the Spade of <hi>Perjury.</hi> In ſhort, Sir, you were told in a private Letter, that the Act (as 'twas contriv'd) would be but a <hi>Stone</hi> for <hi>Bread,</hi> and a <hi>Scorpion</hi> inſtead of a <hi>Fiſh,</hi> and ſo it has proved: For never was Silver ſo advanced in its Price (which has been occaſioned by Ex<g ref="char:EOLhyphen"/>portation) as ſince the Commencement of that Act.</p>
+               <p n="2">2. But another Objection there is, (which is of the ſame Validity with the former) that Gold and Silver is riſen over all <hi>Europe,</hi> and therefore the Complaints of Men are moſt unjuſt againſt its riſing here in <hi>England.</hi>
+               </p>
+               <p>Now this Objection (tho common) yet is abſolutely falſe; for there's no leſs Quantity of Gold and Silver in <hi>Europe</hi> now (but more) than there was 6 or 7 Years ago; and it's the Scar<g ref="char:EOLhyphen"/>city of any Commodity that raiſes its Price. 'Tis true, Gold and Silver is riſen to <hi>
+                     <g ref="char:V">Ʋ</g>s</hi> in all Parts of <hi>Europe,</hi> becauſe we have ſo loſt our Trade, our Shipping, and Strangers have got our Traffique with our own Manufactures, <hi>&amp;c.</hi> that we are run in debt to other Nations; ſo that the <hi>Exchange</hi> 'twixt <hi>England</hi> and <hi>Foreign Parts</hi> is moſt miſerably ſunk, to our great Detriment, particularly in <hi>Holland,</hi> where formerly the Pound or twenty Shillings here, would anſwer to above 38 of their Skellings, but now 'twill anſwer but to 28 or 29, (or at leaſt very lately it would anſwer to no more) this has made Gold and Silver dear to <hi>
+                     <g ref="char:V">Ʋ</g>s:</hi> But that an Ounce of Sil<g ref="char:EOLhyphen"/>ver will buy more Commodities in <hi>Holland</hi> or <hi>Germany, Spain</hi> or <hi>Italy,</hi> now than formerly, this is utterly falſe, which proves that 'tis riſen only in <hi>England.</hi>
+               </p>
+               <p>I confeſs Gold is ſomewhat advanc'd in <hi>Holland,</hi> becauſe of the extraordinary Market which they have found for that Metal here in <hi>England;</hi> but our buying or receiving it from them at ſuch vaſt Rates, has exceedingly help'd to drain us of our Commodities and Manufactures, (to our great Detriment) as well as of our Silver; and has made Engliſh Goods cheaper to Stran<g ref="char:EOLhyphen"/>gers than to our ſelves; ſo that <hi>Stuffs, Blocks of Tin,</hi> &amp;c. are cheaper at <hi>Amſterdam</hi> than <hi>London,</hi> and they are able to underſell us in foreign Markets with our own Wares: and this I am ſure is no good Argument of the Riſe of Gold and Silver beyond Sea, but only to us; and that we by our Folly and Neglect are grown poor, while Foreigners have taken the Advantage, and made their Markets upon us, and ſo are grown rich.</p>
+               <p>The true Notion of Gold and Silver's riſing can be no other than this, <hi>viz. When with the ſame Weight or Quantity of Gold or Silver, we can buy more Commodities, than we could have done for<g ref="char:EOLhyphen"/>merly.</hi>
+                  <pb n="4" facs="tcp:104337:3" rendition="simple:additions"/>And in this Senſe Gold is riſen in <hi>England,</hi> becauſe with a Guinea we can now buy ſome<g ref="char:EOLhyphen"/>thing more than 6 or 7 Years ago: But this reſpects only our own Manuſactures; for in reſpect of all foreign Goods, Gold and Silver is much cheaper than formerly, for we muſt give a great deal more of it for them, than a few Years ago. And whether the making our own Goods cheap, and foreign Goods dear, be the way to Thrift, or an Argument of the riſing of Gold and Silver abroad, is eaſy to determine.</p>
+               <p>In brief, we have an old Proverb, <hi>That Gold may be bought too dear;</hi> and we to our own Coſt, and as a laſting Monument of our Folly, have made it good: And if an Inquiry be made who are the Exporters of our Silver, and who have been the Importers and Coiners of thoſe vaſt Numbers of Guineas which have been lately, and are ſtill coining, you will ſind (<hi>if you can learn the Truth</hi>) that they are the <hi>ſame Men.</hi> So that notwithſtanding theſe Objections, <hi>&amp;c.</hi> and others of a like Nature, urg'd by thoſe that do not perceive the Matter, or elſe by ſuch as would cover it, the former Aſſertion will be found a Truth, <hi>
+                     <g ref="char:V">Ʋ</g>nleſs the Price of Gold be brought down to a juſt Parity, we cannot keep our Silver:</hi> and that which will be worſe, (if this alſo be not done) we ſhall loſe our foreign Trade, by ſuffering Strangers to underſell us with our own Goods.</p>
+               <p>But ſome perhaps will reply to this, <hi>That there's no need to apprehend any Danger from the high Price of</hi> Guineas, <hi>ſince the recoining of our Money (which is now a doing) will prevent this Miſchief; for as ſoon as New Money begins to be plenty,</hi> Guineas <hi>will ſink to their Original Value, without any far<g ref="char:EOLhyphen"/>ther Trouble or Notice.</hi>
+               </p>
+               <p>I anſwer, If there was any Probability of New Money's being plenty, there was ſomething of weight in this Reply; but while Silver is at 6 <abbr>
+                     <hi>s.</hi>
+                  </abbr> 2 <abbr>
+                     <hi>d.</hi>
+                  </abbr> 
+                  <hi>per</hi> Ounce, to ſuppoſe that New Money will not ſink into the Melting Pot, as ſoon as coin'd, and ſo become Ingots, and then march to Goldſiniths-Hall, and there become ſtamp'd at the Expence of Swearing, (as <hi>Tuns of Bullion</hi> lately have been) and from thence ſail to the other ſide of the Water, <hi>&amp;c.</hi> is ſuch a Fallacy as may lull us aſleep till our Treaſure is loſt, all our Money gone; but we ſhall ſoon awake when 'tis too late, from this deceitful Slumber, and then we ſhall find our ſelves in Rags, without ſo much as the Succour of our old clipp'd Droſs left to help us. <hi>The Scarcity of New Money will keep up the Price of</hi> Guineas, <hi>and the high Price of</hi> Guineas <hi>will make New Money ſcarce.</hi>
+               </p>
+               <p>If therefore you do not provide a Remedy for this Miſchief, or if his Majeſty is not pleaſed to do it by Proclamation, <hi>&amp;c.</hi> one Year more will free you of your New <hi>weighty</hi> Money, as well as you are free'd now of the Old <hi>light.</hi>
+               </p>
+               <p>I have heard that there's a Project of giving an Encouragement of 3 <abbr>
+                     <hi>d.</hi>
+                  </abbr> (or what you pleaſe) <hi>per</hi> Ounce, to all Perſons that ſhall bring Bullion to the Mint to be coin'd; I confeſs, <hi>That</hi> may bring vaſt Quantities, but I'll only ask the Queſtion, <hi>Will not the Silver when it's coin'd be as good as before when in the Ingot?</hi> And if ſo, the Melting-Pot after it has ear'd 3 <abbr>
+                     <hi>d.</hi>
+                  </abbr> 
+                  <hi>per</hi> Ounce, can ea<g ref="char:EOLhyphen"/>ſily deface the Marks of that Drudgery.</p>
+               <p>To believe any <hi>Refiner,</hi> &amp;c. will give 6 <abbr>
+                     <hi>s.</hi>
+                  </abbr> 1 <abbr>
+                     <hi>d.</hi>
+                  </abbr> ½, or 6 <abbr>
+                     <hi>s.</hi>
+                  </abbr> 2 <abbr>
+                     <hi>d.</hi>
+                  </abbr> 
+                  <hi>per</hi> Ounce for Silver, to ſend it to the Mint to be coin'd at 5 <abbr>
+                     <hi>s.</hi>
+                  </abbr> 2 <abbr>
+                     <hi>d.</hi>
+                  </abbr> tho there be an Allowance of 3 <abbr>
+                     <hi>d.</hi>
+                  </abbr> 
+                  <hi>per</hi> Ounce Encouragement, when notwithſtanding there's ſtill ſuch an apparent Loſs, without a Deſign to cheat the Go<g ref="char:EOLhyphen"/>vernment, <hi>Credat Judoeus Apella.</hi>
+               </p>
+               <p>There is no way therefore to ſink the Price of Silver, and to encourage Coinage, and to keep our Money when coin'd, <hi>but to ſink the Price of Gold,</hi> and this the Stock and State-Jobbers will never ſuffer, ſince they gain ſo conſiderably by it, unleſs Authority is pleas'd to interpoſe. I confeſs I ſear your Houſe will hardly meddle with it, in regard you have already declin'd it in your Votes; but if his Majeſty do not by Proclamation command that no Guineas ſhall be offer'd after ſuch Day or Days above ſuch a Value or Values, <hi>&amp;c.</hi> and do not for a time ſtop the Coinage, or take ſome other Method to correct this Abuſe, as to his Princely Wiſdom ſhall ſeem meet; or unleſs your Houſe pleaſe to reaſſume the Matter, and find out a Plaiſter for this Wound, 'twill in a little time become a Gangrene to the State.</p>
+               <p>As to Trade, and the Ballance of it, (which is the ſecond thing I mentioned) I hope this will effectually be done, by that Bill which is now under your Conſideration, <hi>&amp;c.</hi> I will therefore add nothing more on that Head, than what I have already touch'd upon in this Diſcourſe; and being ſenſible of your Candor, I will not doubt your Pardon for what has been here freely writ<g ref="char:EOLhyphen"/>ten, ſince I know you'l take it with the ſame Sincerity with which 'tis offer'd; and that is <hi>ſuch,</hi> that 'twill remain at the laſt Day as a Teſtimony of my Love and Zeal to my Country. And now having done with this, I —</p>
+               <argument>
+                  <p>
+                     <hi>The reſt was only about private Matters, and therefore it's not made publick.</hi>
+                  </p>
+               </argument>
+            </div>
+            <div type="postscript">
+               <head>POSTSCRIPT.</head>
+               <p>
+                  <hi>IT's aſſerted by</hi> ſome, <hi>that a</hi> Guinea <hi>now in</hi> Holland <hi>is worth</hi> 27 <abbr>s.</abbr> Engliſh, <hi>and therefore (contrary to what is here laid down) Gold is almoſt as dear</hi> there <hi>as</hi> here: <hi>But the Truth of this, when underſtood, will ſoon overthrow the Conſequence; for the meaning on't is, A Guinea is worth ſo much, on</hi> Exchange, <hi>which being near</hi> 20 per Cent. <hi>or about a fifth Part of the Whole, (to our Diſadvantage) This being ſubſtracted from</hi> 27 <abbr>s.</abbr> 
+                  <hi>will ſhew that the Gold of a Guinea</hi> there <hi>is worth little more now than Gold uſed to be</hi> there 4 <hi>or</hi> 5 <hi>Years ago.</hi>
+               </p>
+               <p>
+                  <hi>I do not queſtion but ſome deſigning Men will endeavour to contradict and caſt a Miſt on the Truths here delivered; but you'l ſoon find that their Arguments are founded on</hi> Self-Profit, <hi>which has been and will be (if not prevented) the</hi> Publick Ruine.</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
